@@ -1,6 +1,6 @@
 const help = (prefix, botname, oname) => {
 	return `
-「 *BOT_NAME* 」
+「 *BOT_DO_DOLLYKK* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
@@ -113,5 +113,13 @@ const help = (prefix, botname, oname) => {
 ◪ *OWNER_NAME2*
 `
 }
+        • ────── ✾ ────── •
+╔════════════════════
+  ➸DUVIDAS? 👇
+  WA.me/553897349613
+╚════════════════════
 
-exports.help = help
+╔════════════════════
+➸  NOS SIGA NO INSTAGRAM
+    https://instagram.com/bot_do_dolly?igshid=11oqpm0hqrow5
+╚════════════════════
